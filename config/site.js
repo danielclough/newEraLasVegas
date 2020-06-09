@@ -1,21 +1,14 @@
 module.exports = {
-  title: "Gatsyby Startbootstrap Agency",
+  title: "New Era Las Vegas",
   keywords: [
     "gatsby",
-    "gatsbyjs",
-    "landing page",
-    "landing",
-    "i18n",
-    "eslint",
-    "bootstrap",
-    "startbootstrap-agency",
   ],
-  description: "gatsby version of startbootstrap-agency with i18n support.",
-  author: "thundermiracle",
-  trackingId: "UA-119418003-5",
+  description: "",
+  author: "",
+  trackingId: "",
   defaultLang: "en",
   langTextMap: {
     en: "English",
-    ja: "日本語",
+    ja: "Español",
   },
 };

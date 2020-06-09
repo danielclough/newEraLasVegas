@@ -1,13 +1,13 @@
 ---
 anchor: "Team"
 header: "Our Amazing Team"
-subheader: "Lorem ipsum dolor sit amet consectetur."
-content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+subheader: "So Much Gratitude"
+content: "No one is an island. We all need community support."
 teamMember: [
   {
     imageFileName: "team/1.jpg",
-    header: "Kay Garland",
-    subheader: "Lead Designer",
+    header: "Minister Stretch Sanders",
+    subheader: "Lead Organizer",
     social: {
       twitter: "#",
       facebook: "#",
@@ -16,8 +16,8 @@ teamMember: [
   },
   {
     imageFileName: "team/2.jpg",
-    header: "Larry Parker",
-    subheader: "Lead Marketer",
+    header: "Kimani Parker",
+    subheader: "Important Role",
     social: {
       twitter: "#",
       facebook: "#",
@@ -26,8 +26,8 @@ teamMember: [
   },
   {
     imageFileName: "team/3.jpg",
-    header: "Diana Pertersen",
-    subheader: "Lead Developer",
+    header: "Jayla Jones",
+    subheader: "Important Role",
     social: {
       twitter: "#",
       facebook: "#",

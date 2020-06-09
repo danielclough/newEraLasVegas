@@ -1,5 +1,5 @@
 ---
-copyright: "Copyright © Start Bootstrap 2020"
+copyright: "© New Era Las Vegas 2020"
 social: {
   twitter: "#",
   facebook: "#",

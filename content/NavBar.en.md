@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "New Era Las Vegas"
 menuText: "Menu "
 ---

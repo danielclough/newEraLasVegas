@@ -1,19 +1,19 @@
 ---
 clients: [
   {
-    imageFileName: "logos/envato.jpg",
+    imageFileName: "portfolio/NELV-logo.jpg",
     href: "#!"
   },
   {
-    imageFileName: "logos/designmodo.jpg",
+    imageFileName: "portfolio/NELV-logo.jpg",
     href: "#!"
   },
   {
-    imageFileName: "logos/themeforest.jpg",
+    imageFileName: "portfolio/NELV-logo.jpg",
     href: "#!"
   },
   {
-    imageFileName: "logos/creative-market.jpg",
+    imageFileName: "portfolio/NELV-logo.jpg",
     href: "#!"
   }
 ]
