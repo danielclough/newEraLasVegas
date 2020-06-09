@@ -20,8 +20,8 @@ portfolios: [
     extraInfo: ["Date: June 6th 2020", "Location: Desert Garden Condominiums", "Time: 10am - 12pm", "Category: Hood2Hood"]
   },
   {
-    imageFileName: "portfolio/WeDeserveToLive-lg.jpg",
-    imageFileNameDetail: "portfolio/WeDeserveToLive-lg.jpg",
+    imageFileName: "portfolio/WeDeserveToLive.jpg",
+    imageFileNameDetail: "portfolio/WeDeserveToLive.jpg",
     header: "6/5/20",
     subheader: "Peaceful Protest",
     content: "Thousands gathered for the We Deserve To Live: Black People Matter Rally, March, and Candlelight Vigil",
