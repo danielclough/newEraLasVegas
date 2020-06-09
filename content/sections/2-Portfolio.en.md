@@ -10,7 +10,7 @@ portfolios: [
     subheader: "Providing Value",
     content: "Community Cleanup - Resources - Engagement Program - Food - Covid 19 Community Response Task Force",
     extraInfo: ["Date: June 13th 2020", "Location: Location", "Time: 10am - 12pm"],
-    link: "https://danielc.us/copyright",
+    link: "#",
     linkText: "Important Information Here"
   },
   {
@@ -20,7 +20,7 @@ portfolios: [
     subheader: "Community Event",
     content: "Community Cleanup - Resources - Engagement Program - Food - Covid 19 Community Response Task Force",
     extraInfo: ["Date: Every Saturday", "Location: Rotating Every Other Week"],
-    link: "https://danielc.us/copyright",
+    link: "#",
     linkText: "Important Information Here"
   },
   {
@@ -30,7 +30,7 @@ portfolios: [
     subheader: "Peaceful Protest",
     content: "Thousands gathered for the We Deserve To Live: Black People Matter Rally, March, and Candlelight Vigil",
     extraInfo: ["Date: June 5th 2020", "Location: Kianga Isoke Palacio Park", "Time: 5pm - 10pm"],
-    link: "https://danielc.us/copyright",
+    link: "#",
     linkText: "Important Information Here"
   },
 ]

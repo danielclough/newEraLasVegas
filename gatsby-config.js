@@ -19,7 +19,7 @@ module.exports = {
       resolve: "gatsby-plugin-manifest",
       options: {
         name: title,
-        short_name: "New Era Las Vegas",
+        short_name: title,
         start_url: "/",
         background_color: "#ffffff",
         theme_color: "#fed136",
