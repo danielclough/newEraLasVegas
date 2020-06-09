@@ -1,8 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-
 import clsx from "clsx";
-
 import { Navbar, Container, Nav } from "react-bootstrap";
 
 import useWindowOnScroll from "hooks/useWindowOnScroll";
@@ -35,6 +33,7 @@ const MyNavbar = ({ anchors, frontmatter, extraItems }) => {
     setShrink(scrollTop > 100);
   }, []);
   useWindowOnScroll(handleWindowScroll);
+
 
   return (
     <Navbar
@@ -75,5 +74,6 @@ MyNavbar.defaultProps = {
   frontmatter: {},
   extraItems: null,
 };
+
 
 export default MyNavbar;

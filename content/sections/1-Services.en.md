@@ -9,14 +9,14 @@ services: [
     content: "Every Saturday we meet up to provide our community with supplies."
   },
   {
-    iconName: "LaptopIcon",
-    header: "Community Organization",
-    content: "Bringing the community together online and in person."
+    iconName: "SpaceIcon",
+    header: "Community Space",
+    content: "Creating space and providing resources for community activities."
   },
   {
-    iconName: "LockIcon",
-    header: "Community Security",
-    content: "Security is not about locked doors, but about sharing open hearts."
+    iconName: "HeartIcon",
+    header: "Community Love",
+    content: "We are proud of our comunity. Together we will create a just world!"
   }
 ]
 ---
