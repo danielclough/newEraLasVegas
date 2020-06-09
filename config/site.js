@@ -1,5 +1,6 @@
 module.exports = {
   title: "New Era Las Vegas",
+  image: "header-bg.jpg",
   keywords: [
     "gatsby",
   ],
