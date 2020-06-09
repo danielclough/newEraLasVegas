@@ -14,16 +14,16 @@ portfolios: [
   {
     imageFileName: "portfolio/hood2hood.jpg",
     imageFileNameDetail: "portfolio/hood2hood.jpg",
-    header: "6/6/20",
-    subheader: "Hood2Hood",
+    header: "Hood2Hood",
+    subheader: "Local Community",
     content: "Community Cleanup - Resources - Engagement Program - Food - Covid 19 Community Response Task Force",
     extraInfo: ["Date: June 6th 2020", "Location: Desert Garden Condominiums", "Time: 10am - 12pm", "Category: Hood2Hood"]
   },
   {
     imageFileName: "portfolio/WeDeserveToLive.jpg",
     imageFileNameDetail: "portfolio/WeDeserveToLive.jpg",
-    header: "6/5/20",
-    subheader: "Peaceful Protest",
+    header: "Peaceful Protest",
+    subheader: "We Deserve To Live",
     content: "Thousands gathered for the We Deserve To Live: Black People Matter Rally, March, and Candlelight Vigil",
     extraInfo: ["Date: June 5th 2020", "Location: Kianga Isoke Palacio Park", "Time: 5pm - 10pm", "Category: Peaceful Protest"]
   },
