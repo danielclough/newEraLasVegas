@@ -53,6 +53,8 @@ export const query = graphql`
             subheader
             imageFileNameDetail
             imageFileName
+            link
+            linkText
           }
           privacyHref
           privacyText
@@ -66,7 +68,6 @@ export const query = graphql`
             facebook
             github
             linkedin
-            medium
             twitter
           }
           subheader

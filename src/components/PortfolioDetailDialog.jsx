@@ -36,7 +36,7 @@ const PortfolioDetailDialog = ({
           alt={imageAlt || header || subheader}
         />
         <p>{content}</p>
-        <p>More Info: {link}</p>
+        <p> Learn More: <a href={link}>{linkText}</a></p>
         {extraInfo}
       </Modal.Body>
       <Modal.Footer>

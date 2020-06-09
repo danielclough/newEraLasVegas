@@ -12,7 +12,7 @@ timeline: [
   {
     imageFileName: "about/2.jpg",
     header: "Donate",
-    subheader: "We need money for supplies!",
+    subheader: "We need goods and supplies!",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {
