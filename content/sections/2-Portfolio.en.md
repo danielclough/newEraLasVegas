@@ -6,26 +6,32 @@ portfolios: [
   {
     imageFileName: "portfolio/NELV-logo.jpg",
     imageFileNameDetail: "portfolio/NELV-logo.jpg",
-    header: "6/13/20",
-    subheader: "Hood2Hood",
+    header: "Powerful Event",
+    subheader: "Providing Value",
     content: "Community Cleanup - Resources - Engagement Program - Food - Covid 19 Community Response Task Force",
-    extraInfo: ["Date: June 13th 2020", "Location: Location", "Time: 10am - 12pm", "Category: Hood2Hood"]
+    extraInfo: ["Date: June 13th 2020", "Location: Location", "Time: 10am - 12pm"],
+    link: "https://danielc.us/copyright",
+    linkText: "test"
   },
   {
     imageFileName: "portfolio/hood2hood.jpg",
     imageFileNameDetail: "portfolio/hood2hood.jpg",
     header: "Hood2Hood",
-    subheader: "Local Community",
+    subheader: "Community Event",
     content: "Community Cleanup - Resources - Engagement Program - Food - Covid 19 Community Response Task Force",
-    extraInfo: ["Date: June 6th 2020", "Location: Desert Garden Condominiums", "Time: 10am - 12pm", "Category: Hood2Hood"]
+    extraInfo: ["Date: Every Saturday", "Location: Rotating Every Other Week"],
+    link: "https://danielc.us/copyright",
+    linkText: "test"
   },
   {
     imageFileName: "portfolio/WeDeserveToLive.jpg",
     imageFileNameDetail: "portfolio/WeDeserveToLive.jpg",
-    header: "Peaceful Protest",
-    subheader: "We Deserve To Live",
+    header: "We Deserve To Live",
+    subheader: "Peaceful Protest",
     content: "Thousands gathered for the We Deserve To Live: Black People Matter Rally, March, and Candlelight Vigil",
-    extraInfo: ["Date: June 5th 2020", "Location: Kianga Isoke Palacio Park", "Time: 5pm - 10pm", "Category: Peaceful Protest"]
+    extraInfo: ["Date: June 5th 2020", "Location: Kianga Isoke Palacio Park", "Time: 5pm - 10pm"],
+    link: "https://danielc.us/copyright",
+    linkText: "test"
   },
 ]
 ---

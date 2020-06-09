@@ -13,6 +13,8 @@ const PortfolioDetailDialog = ({
   subheader,
   content,
   extraInfo,
+  link,
+  linkText,
   ...restProps
 }) => {
   return (
@@ -34,13 +36,14 @@ const PortfolioDetailDialog = ({
           alt={imageAlt || header || subheader}
         />
         <p>{content}</p>
+        <p>More Info: {link}</p>
         {extraInfo}
       </Modal.Body>
       <Modal.Footer>
         <div className="mx-auto">
           <Button variant="primary" onClick={onHide}>
             <Icon iconName="CloseIcon" />
-            &nbsp; Close Project
+            &nbsp; Close
           </Button>
         </div>
       </Modal.Footer>
@@ -56,6 +59,8 @@ PortfolioDetailDialog.propTypes = {
   subheader: PropTypes.string,
   content: PropTypes.string,
   extraInfo: PropTypes.any,
+  link: PropTypes.string,
+  linkText: PropTypes.string,
 };
 
 PortfolioDetailDialog.defaultProps = {
@@ -66,6 +71,8 @@ PortfolioDetailDialog.defaultProps = {
   subheader: "",
   content: "",
   extraInfo: null,
+  linkText: "",
+  link: "",
 };
 
 export default PortfolioDetailDialog;

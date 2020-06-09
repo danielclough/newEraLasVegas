@@ -17,6 +17,8 @@ const PortfolioItem = ({
   imageFileNameDetail,
   imageAltDetail,
   extraInfo,
+  link,
+  linkText,
 }) => {
   const [showDetail, setShowDetail] = React.useState(false);
   const handleShowDetail = React.useCallback(() => {
@@ -61,6 +63,8 @@ const PortfolioItem = ({
         subheader={subheader}
         content={content}
         extraInfo={extraInfo}
+        link={link}
+        linkText={linkText}
       />
     </>
   );
@@ -75,6 +79,8 @@ PortfolioItem.propTypes = {
   imageFileNameDetail: PropTypes.string,
   imageAltDetail: PropTypes.string,
   extraInfo: PropTypes.any,
+  link: PropTypes.string,
+  linkText: PropTypes.string,
 };
 
 PortfolioItem.defaultProps = {
@@ -84,6 +90,8 @@ PortfolioItem.defaultProps = {
   imageFileNameDetail: "",
   imageAltDetail: "",
   extraInfo: null,
+  linkText: "",
+  link: "",
 };
 
 export default PortfolioItem;
